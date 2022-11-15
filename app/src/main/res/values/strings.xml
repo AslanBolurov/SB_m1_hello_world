@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusPassengerCounter</string>
+    <string name="reset">Reset</string>
+    <string name="allPlacesAreFree">All places are free</string>
+    <string name="placesLeft">Places left</string>
+    <string name="tooManyPassengers">Too many passengers!</string>
+</resources>
